@@ -9,7 +9,8 @@
 本專案利用 AWS 雲端平台處理交通部高公局 12 週、逾 2.74 億筆（58.9 GB）的國道 ETC 交易大數據。透過建立無伺服器 (Serverless) 資料管線與前端快取機制，打造具備高互動性的交通決策儀表板；並創新導入 Agentic AI 助理，讓使用者能以自然語言直接向大數據資料庫進行提問與視覺化圖表生成。
 
 ## 🎥 實機運作 Demo (Live Demonstration)
-* **[點此觀看系統完整實機 Demo 影片 (YouTube)](#)** <!-- 替換為你的 YouTube 連結 -->
+* **[🔥 系統網頁實機展示 (Web Demo)](https://youtu.be/Y8fkyIx7QZ4)** <!-- 請替換為「網頁成果展示」的 YouTube 連結 -->
+* **[📊 完整專案簡報影片 (Full Presentation)](https://youtu.be/hkZbu-8lqas)** <!-- 請替換為「整個 PPT」的 YouTube 連結 -->
 
 ## ✨ 核心技術與亮點 (Key Features & Architecture)
 * **雲端自動化資料管線：** 透過 Amazon EventBridge 觸發 Lambda，每日定時抓取 raw data 匯入 S3 資料湖。
